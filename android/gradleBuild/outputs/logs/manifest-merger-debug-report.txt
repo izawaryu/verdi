@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:17:1-89:12
+	package
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:18:5-33
+	xmlns:android
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:17:11-69
+uses-sdk
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\55373f86948cdb9e6c1e23570dda9fed13474aab\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\e07dd63971a241c518c2194e9a792a4b745e50d6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\6f6c3ef73d20f02eb0f7e7ef9f6c40cb71fe32ee\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rizawa\.android\build-cache\2416af96d53f84d0d4ff58610629e39b282b2812\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\rizawa\.android\build-cache\b3b93e5ff54ef82cae4783b1dfe4ac59b5b46e79\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.1] C:\Users\rizawa\.android\build-cache\b11c78f15847b00d3b2c2787bd7e746ad54646f4\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\rizawa\.android\build-cache\409bedc88658a35376239272eaf18693b3407f6e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\rizawa\.android\build-cache\47054bb0cb49d8e44b8e098a2adc186efc191bda\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\rizawa\.android\build-cache\c216f0ed498b4a22c4b200d3aba65eb155b07462\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\e4b726789a4dd19e45c8289741be1a0cf736adbd\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\b03902d49f6145a5222bebf39d1fbf23ce825a34\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\d5c411191c47d7a6868a0ebf325a727b7c762ef0\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\02e89dac594ac1265b7f3a2fff606596d902dda9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\98b122a036a21d9c6fdd94450fccd860b8c76e79\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\3ab16c017d3c40f0b131d5c03535a01e6bfbc45d\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\55373f86948cdb9e6c1e23570dda9fed13474aab\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:22:9-38
+	android:minSdkVersion
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:21:9-35
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:24:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:26:5-60
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:26:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:27:5-70
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:27:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:29:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:30:5-75
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:30:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:31:5-80
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:31:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:32:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:33:22-78
+application
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:35:5-87:19
+MERGED from [org.tensorflow:tensorflow-android:1.2.0-preview] C:\Users\rizawa\.android\build-cache\6cde17f5a389762a68a0f70634e84072ed00f242\output\AndroidManifest.xml:5:5-6:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\55373f86948cdb9e6c1e23570dda9fed13474aab\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\e07dd63971a241c518c2194e9a792a4b745e50d6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\6f6c3ef73d20f02eb0f7e7ef9f6c40cb71fe32ee\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rizawa\.android\build-cache\2416af96d53f84d0d4ff58610629e39b282b2812\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\rizawa\.android\build-cache\b3b93e5ff54ef82cae4783b1dfe4ac59b5b46e79\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.1] C:\Users\rizawa\.android\build-cache\b11c78f15847b00d3b2c2787bd7e746ad54646f4\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\rizawa\.android\build-cache\409bedc88658a35376239272eaf18693b3407f6e\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\rizawa\.android\build-cache\47054bb0cb49d8e44b8e098a2adc186efc191bda\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\rizawa\.android\build-cache\c216f0ed498b4a22c4b200d3aba65eb155b07462\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\e4b726789a4dd19e45c8289741be1a0cf736adbd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\b03902d49f6145a5222bebf39d1fbf23ce825a34\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\d5c411191c47d7a6868a0ebf325a727b7c762ef0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\02e89dac594ac1265b7f3a2fff606596d902dda9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\98b122a036a21d9c6fdd94450fccd860b8c76e79\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\3ab16c017d3c40f0b131d5c03535a01e6bfbc45d\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:39:9-41
+	android:debuggable
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:37:9-34
+	android:allowBackup
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:36:9-35
+	android:icon
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:38:9-48
+	android:theme
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:40:9-65
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:42:9-50:20
+	android:authorities
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:44:13-71
+	android:grantUriPermissions
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:46:13-47
+	android:exported
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:43:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:47:13-49:53
+	android:resource
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:49:17-51
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:48:17-67
+activity#org.tensorflow.verdi.ClassifierActivity
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:52:9-61:20
+	android:screenOrientation
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:55:13-49
+	android:label
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:54:13-65
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:53:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:56:13-60:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:57:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:59:17-77
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:59:27-74
+activity#org.tensorflow.verdi.CollectionActivity
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:63:9-76
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:63:19-73
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:73:9-75:55
+	android:value
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:75:13-52
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:74:13-58
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:76:9-78:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\rizawa\.android\build-cache\c216f0ed498b4a22c4b200d3aba65eb155b07462\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:78:13-66
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:77:13-58
+activity#org.tensorflow.verdi.MapsActivity
+ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:79:9-81:59
+	android:label
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:81:13-56
+	android:name
+		ADDED from C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\AndroidManifest.xml:80:13-61
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\55373f86948cdb9e6c1e23570dda9fed13474aab\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\e07dd63971a241c518c2194e9a792a4b745e50d6\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\6f6c3ef73d20f02eb0f7e7ef9f6c40cb71fe32ee\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\e4b726789a4dd19e45c8289741be1a0cf736adbd\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\b03902d49f6145a5222bebf39d1fbf23ce825a34\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\d5c411191c47d7a6868a0ebf325a727b7c762ef0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\02e89dac594ac1265b7f3a2fff606596d902dda9\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\98b122a036a21d9c6fdd94450fccd860b8c76e79\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\3ab16c017d3c40f0b131d5c03535a01e6bfbc45d\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\55373f86948cdb9e6c1e23570dda9fed13474aab\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rizawa\.android\build-cache\55373f86948cdb9e6c1e23570dda9fed13474aab\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\rizawa\.android\build-cache\b3b93e5ff54ef82cae4783b1dfe4ac59b5b46e79\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\rizawa\.android\build-cache\b3b93e5ff54ef82cae4783b1dfe4ac59b5b46e79\output\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\rizawa\.android\build-cache\b3b93e5ff54ef82cae4783b1dfe4ac59b5b46e79\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\rizawa\.android\build-cache\b3b93e5ff54ef82cae4783b1dfe4ac59b5b46e79\output\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\rizawa\.android\build-cache\b3b93e5ff54ef82cae4783b1dfe4ac59b5b46e79\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\rizawa\.android\build-cache\b3b93e5ff54ef82cae4783b1dfe4ac59b5b46e79\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\rizawa\.android\build-cache\b3b93e5ff54ef82cae4783b1dfe4ac59b5b46e79\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\rizawa\.android\build-cache\409bedc88658a35376239272eaf18693b3407f6e\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\rizawa\.android\build-cache\409bedc88658a35376239272eaf18693b3407f6e\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\rizawa\.android\build-cache\409bedc88658a35376239272eaf18693b3407f6e\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\rizawa\.android\build-cache\409bedc88658a35376239272eaf18693b3407f6e\output\AndroidManifest.xml:19:19-85

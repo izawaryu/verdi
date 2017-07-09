@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Make a new observation of a specimen -->
+    <item
+        android:id="@+id/maps_observe"
+        android:title="@string/action_observe"
+        app:showAsAction="never" />
+
+    <!-- view SQLite table of collected specimens -->
+    <item
+        android:id="@+id/maps_collection"
+        android:title="@string/action_collection"
+        app:showAsAction="never" />
+
+
+    <!-- view account details -->
+    <item
+        android:id="@+id/maps_account"
+        android:title="@string/action_account"
+        app:showAsAction="never" />
+
+
+</menu>

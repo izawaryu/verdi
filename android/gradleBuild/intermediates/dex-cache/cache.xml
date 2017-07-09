@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\.android\build-cache\47054bb0cb49d8e44b8e098a2adc186efc191bda\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_85c27e291c94786b1dc41184e5fc35caf83dad94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\.android\build-cache\b11c78f15847b00d3b2c2787bd7e746ad54646f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3e607ca6e04e85741fa979402b37eb552b811641">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_6ae2c87ad3a313b8dfda4761e9e3206c20829407\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\.android\build-cache\6cde17f5a389762a68a0f70634e84072ed00f242\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="547326950573bb73d6064506e003a201045b2bd7">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_2c63b9cca628c6c55316dcce27d3001043f90ad2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\.android\build-cache\6f6c3ef73d20f02eb0f7e7ef9f6c40cb71fe32ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_b52b617854e65d807cb2675a6165a9c7ca609d0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\.android\build-cache\b3b93e5ff54ef82cae4783b1dfe4ac59b5b46e79\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b70c5ad05857b8b3b2458777e1b489a96d82f05">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_ec8369bab564d906366111ad26b9462637ed944d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\.android\build-cache\02e89dac594ac1265b7f3a2fff606596d902dda9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_7cffdd50d777dc3fcfb3a4a031ad90818be5df9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\.android\build-cache\e07dd63971a241c518c2194e9a792a4b745e50d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_edb589815f466cd5d2c63095ad555f7df7eb4140\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\.android\build-cache\c216f0ed498b4a22c4b200d3aba65eb155b07462\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_5c503212a1d5714c17121fe9f69161ca6c1e0ed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\.android\build-cache\e4b726789a4dd19e45c8289741be1a0cf736adbd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_0e1b827b43a7baab48be95f3de0badd58ceccd99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\.android\build-cache\b03902d49f6145a5222bebf39d1fbf23ce825a34\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_8986320af52eb680f7d22e6e171a504693ec7925\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\.android\build-cache\409bedc88658a35376239272eaf18693b3407f6e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_0617c14138d1eeafb95e8c2f70cb6ad74de69f39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\.android\build-cache\d5c411191c47d7a6868a0ebf325a727b7c762ef0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_2a7d96d99a650fc39f009e5000e38e7df105a371\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\.android\build-cache\98b122a036a21d9c6fdd94450fccd860b8c76e79\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_98b19df48dd9b34ae256912be4418777674d4b13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0d4935f5e5d2ebc81a5f35cdac555db128735371">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9af78b06f3e34563f7b2cd7ec6ea76721f44c4ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\.android\build-cache\55373f86948cdb9e6c1e23570dda9fed13474aab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_fdd2402edbe095eace914659c3c1c21ad173c6d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\.android\build-cache\3ab16c017d3c40f0b131d5c03535a01e6bfbc45d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_08970b6e5ea67e4a5783b0f68e032881bc5b6601\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fa46f2fe5f1e60ce3efe4ea59a57ca130bd30eeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rizawa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\rizawa\GitHub\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_7b10ffe971b66b59557bcb71abdb7f3aff19b003\classes.dex" />
+    </item>
+
+</items>

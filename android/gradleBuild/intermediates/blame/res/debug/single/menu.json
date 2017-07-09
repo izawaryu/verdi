@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\rizawa\\GitHub\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\menu\\coll_menu.xml",
+        "source": "C:\\Users\\rizawa\\GitHub\\tensorflow-for-poets-2\\android\\res\\menu\\coll_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\rizawa\\GitHub\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\menu\\maps_menu.xml",
+        "source": "C:\\Users\\rizawa\\GitHub\\tensorflow-for-poets-2\\android\\res\\menu\\maps_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\rizawa\\GitHub\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\rizawa\\GitHub\\tensorflow-for-poets-2\\android\\res\\menu\\main_menu.xml"
+    }
+]
